@@ -1,0 +1,27 @@
+####################
+  ##  KEYWORDS.txt  ##
+  ####################
+
+  HC12NET	KEYWORD1
+
+
+  ##### MASTER #####
+
+  beginMaster KEYWORD2
+  askString KEYWORD2
+  askInt  KEYWORD2
+  askFloat  KEYWORD2
+  sendcommannd  KEYWORD2
+
+  ##### SLAVE #####
+
+  checkMasterString KEYWORD2
+  checkMasterInt  KEYWORD2
+  checkMasterFloat  KEYWORD2
+  beginMaster KEYWORD2
+checkMasterCommand KEYWORD2
+
+
+  ##### CONSTANT #####
+  OK	LITERAL1
+  KO	LITERAL1
